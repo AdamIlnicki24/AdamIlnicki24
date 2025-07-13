@@ -3,7 +3,7 @@
 I am a professional developer with commercial experience who built the non-commercial web application **Clasicos** using NestJS and Next.js.
 
 ## Test account
-E-mail:
+E-mail:  
 Password:
 
 ## What is Clasicos?
