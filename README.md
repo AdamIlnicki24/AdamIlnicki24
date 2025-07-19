@@ -11,13 +11,14 @@ Password:
 Clasicos is a neutral meeting place for fans of both Barcelona and Real Madrid.  
 
 - Users can create their all-time best XI from a pool of players stored in our database.  
-- If a player they want isn’t available, they can fill out a short suggestion form to request adding that player. Suggestions are emailed directly to the admin.  
+- If a player they want isn’t available, they can fill out a short suggestion form to request adding that player. Suggestions are emailed directly to the admin.
+- All other user-submitted data (teams, comments, recommendations, etc.) is stored in the database.
 
 ## Admin Features
 
-- Ban users for any behavior deemed offensive (prevents them from commenting and recommending).  
-- Review and manage all suggestion forms (player additions and corrections), which are emailed to the admin.  
-- All other user-submitted data (teams, comments, recommendations) is stored in the database.
+- Ban users for any behavior deemed offensive (prevents them from commenting and recommending).
+- Delete comments.  
+- Create players.
 
 ## Why This Idea?
 
