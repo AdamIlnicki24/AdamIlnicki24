@@ -1,6 +1,6 @@
 # Clasicos
 
-I am a professional developer with commercial experience who built the non-commercial web application **Clasicos** using NestJS and Next.js.
+I am a developer with commercial experience who built the non-commercial web application **Clasicos** using NestJS and Next.js.
 
 ## Test account
 E-mail:  
@@ -19,9 +19,8 @@ Clasicos is a neutral meeting place for fans of both Barcelona and Real Madrid.
 - **Design (Figma)**: big thanks to [@njqnik](https://github.com/njqnik) - thanks to the polished Figma design I could fully focus on frontend, backend and deployment.  
 - **Backend**: NestJS (separate repository)  
 - **Frontend**: Next.js (separate repository)  
-- **Deployment**: Vercel (CI/CD)
 
-Each repo has its own detailed README — feel free to check them out!
+Each repo has its own detailed README - feel free to check them out!
 
 ## Admin Features
 
