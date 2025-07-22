@@ -14,6 +14,15 @@ Clasicos is a neutral meeting place for fans of both Barcelona and Real Madrid.
 - If a player they want isn’t available, they can fill out a short suggestion form to request adding that player. Suggestions are emailed directly to the admin.
 - All other user-submitted data (teams, comments, recommendations, etc.) is stored in the database.
 
+## Tech Stack & Design
+
+- **Design (Figma)**: big thanks to [@njqnik](https://github.com/njqnik) - thanks to the polished Figma design I could fully focus on frontend, backend and deployment.  
+- **Backend**: NestJS (separate repository)  
+- **Frontend**: Next.js (separate repository)  
+- **Deployment**: Vercel (CI/CD)
+
+Each repo has its own detailed README — feel free to check them out!
+
 ## Admin Features
 
 - Ban users for any behavior deemed offensive (prevents them from commenting and recommending).
@@ -31,10 +40,3 @@ Most popular Polish Barcelona and Real Madrid sites have active forums with high
 - **Development**: All work and commits happen on the `dev` branch.  
 - **Main**: Pull requests are merged into `main`.  
 - **Deployment**: The `main` branch is connected to Vercel for automatic deployments with CI.
-
-## Tech Stack
-
-- **Backend**: NestJS (separate repository)  
-- **Frontend**: Next.js (separate repository)  
-
-Each repo has its own detailed README — feel free to check them out!
