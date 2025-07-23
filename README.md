@@ -17,8 +17,8 @@ Clasicos is a neutral meeting place for fans of both Barcelona and Real Madrid.
 ## Tech Stack & Design
 
 - **Design (Figma)**: big thanks to [@njqnik](https://github.com/njqnik) - thanks to the polished Figma design I could fully focus on frontend, backend and deployment.  
-- **Backend**: NestJS (separate repository)  
-- **Frontend**: Next.js (separate repository)  
+- **Backend**: NestJS (https://github.com/AdamIlnicki24/clasicos-api)  
+- **Frontend**: Next.js (https://github.com/AdamIlnicki24/clasicos-web)  
 
 Each repo has its own detailed README - feel free to check them out!
 
