@@ -1,10 +1,6 @@
 # Clasicos
 
-I am a developer with commercial experience who built the non-commercial web application **Clasicos** using NestJS and Next.js.
-
-## Test account
-E-mail:  
-Password:
+I am a developer with commercial experience who built the non-commercial web application **Clasicos** using NestJS and Next.js - https://clasicos.pl.
 
 ## What is Clasicos?
 
