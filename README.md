@@ -10,6 +10,12 @@ Clasicos is a neutral meeting place for fans of both Barcelona and Real Madrid.
 - If a player they want isn’t available, they can fill out a short suggestion form to request adding that player. Suggestions are emailed directly to the admin.
 - All other user-submitted data (teams, comments, recommendations, etc.) is stored in the database.
 
+## Admin Features
+
+- Ban users for any behavior deemed offensive (prevents them from commenting and recommending).
+- Delete comments.  
+- Add players to the database.
+
 ## Tech Stack & Design
 
 - **Design (Figma)**: big thanks to [@njqnik](https://github.com/njqnik) - thanks to the polished Figma design I could fully focus on frontend, backend and deployment.  
@@ -18,11 +24,6 @@ Clasicos is a neutral meeting place for fans of both Barcelona and Real Madrid.
 
 Each repo has its own detailed README - feel free to check them out!
 
-## Admin Features
-
-- Ban users for any behavior deemed offensive (prevents them from commenting and recommending).
-- Delete comments.  
-- Add players to the database.
 
 ## Why This Idea?
 
