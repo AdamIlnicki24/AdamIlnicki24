@@ -33,6 +33,7 @@ Most popular Polish Barcelona and Real Madrid sites have active forums with high
 
 ## Branching & Deployment
 
-- **Development**: All work and commits happen on the `dev` branch.  
-- **Main**: Pull requests are merged into `main`.  
-- **Deployment**: The `main` branch is connected to Vercel for automatic deployments with CI.
+- **Development**: Most of the work happens on the `dev` branch.  
+- **Main**: Pull requests from `dev` are merged into `main`.
+- **Refactor** – short‑lived branch for minor fixes or experiments; merged into `dev` and then deleted.
+- **Deployment**: `main` is connected to Vercel for automatic CI deployments.
