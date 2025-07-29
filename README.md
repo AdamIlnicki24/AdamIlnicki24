@@ -17,7 +17,7 @@ Clasicos is a full‑stack web application and neutral gathering place for Polis
   - **Admins:** Can ban users (which prevents them from commenting and recommending), delete inappropriate comments, add new players, and manage suggestions.
 
 - **Managed Relational Database**  
-  Player data, user submissions, comments, and recommendations are stored in a hosted SQL database.
+  Player data, user submissions, comments, and recommendations are stored in a hosted MySQL database.
 
 - **Secure Authentication**  
   Users' passwords are handled by Firebase Authentication - they are not stored directly in our database.
