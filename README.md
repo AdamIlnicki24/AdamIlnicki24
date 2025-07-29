@@ -4,21 +4,36 @@ I am a developer with commercial experience who built the non-commercial web app
 
 ## What is Clasicos?
 
-Clasicos is a neutral meeting place for fans of both Barcelona and Real Madrid.  
+Clasicos is a full‑stack web application and neutral gathering place for Polish fans of both FC Barcelona and Real Madrid. Built with NestJS and Next.js, it offers a rich set of features:
 
-- Users can create their all-time best XI from a pool of players stored in our database.  
-- If a player they want isn’t available, they can fill out a short suggestion form to request adding that player. Suggestions are emailed directly to the admin.
-- All other user-submitted data (teams, comments, recommendations, etc.) is stored in the database.
+- **Create Your Team**  
+  Choose the all‑time top eleven players of Barcelona and Real Madrid in the 21st century, drawn from our extensive player database.
 
-## Admin Features
+- **Player Suggestions**  
+  If a favourite player isn’t yet listed, submit a quick suggestion form and our admins will review and add them.
 
-- Ban users for any behavior deemed offensive (prevents them from commenting and recommending).
-- Delete comments.  
-- Add players to the database.
+- **Two User Roles**  
+  - **Visitors:** Can build teams, comment, and recommend other users' comments.  
+  - **Admins:** Can ban users (which prevents them from commenting and recommending), delete inappropriate comments, add new players, and manage suggestions.
+
+- **Managed Relational Database**  
+  Player data, user submissions, comments, and recommendations are stored in a hosted SQL database.
+
+- **Secure Authentication**  
+  Users' passwords are handled by Firebase Authentication - they are not stored directly in our database.
+
+- **Custom Domain & DNS**  
+  The entire app runs under [clasicos.pl](https://clasicos.pl), with custom DNS records pointing to our frontend and API hosts.
+
+- **Issue Reporting Form**  
+  Found a bug or have feedback? Use the built‑in “Report a Problem” form to let us know instantly.
+
+- **Mobile‑First & Responsive**  
+  Fully optimized for smartphones and tablets, so you can manage your XI on the go.
 
 ## Tech Stack & Design
 
-- **Design (Figma)**: big thanks to [@njqnik](https://github.com/njqnik) - thanks to the polished Figma design I could fully focus on frontend, backend and deployment.  
+- **Design (Figma)**: A big thanks to [@njqnik](https://github.com/njqnik) - thanks to the polished Figma design I could fully focus on frontend, backend and deployment.  
 - **Backend**: NestJS (https://github.com/AdamIlnicki24/clasicos-api)  
 - **Frontend**: Next.js (https://github.com/AdamIlnicki24/clasicos-web)  
 
