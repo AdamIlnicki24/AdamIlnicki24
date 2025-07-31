@@ -56,3 +56,7 @@ The most popular Polish Barcelona and Real Madrid sites have active forums with 
 **Example view of a banned user**
 
 ![Example view of a banned user](images/zbanowany-uzytkownik.png)
+
+**Example view of an admin**
+
+![Example view of an admin](images/admin.png)
