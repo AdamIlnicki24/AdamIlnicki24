@@ -52,3 +52,7 @@ The most popular Polish Barcelona and Real Madrid sites have active forums with 
 - **Main**: Pull requests from `dev` are merged into `main`.
 - **Refactor** – short‑lived branch for minor fixes or experiments; merged into `dev` and then deleted.
 - **Deployment**: `main` is connected to Vercel for automatic CI deployments.
+
+**Example view of a banned user**
+
+![Example view of a banned user](images/zbanowany-uzytkownik.png)
