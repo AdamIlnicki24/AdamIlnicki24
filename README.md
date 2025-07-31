@@ -42,7 +42,6 @@ Clasicos is a full‑stack web application and neutral gathering place for Polis
 
 Each repo has its own detailed README - feel free to check them out!
 
-
 ## Why This Idea?
 
 I’ve spent 17 years on similar fan sites and watched them evolve rapidly. Rather than build yet another club-specific fan page, I wanted to create a truly neutral space where Polish fans of both Barcelona and Real Madrid could gather.  
@@ -55,6 +54,10 @@ The most popular Polish Barcelona and Real Madrid sites have active forums with 
 - **Main**: Pull requests from `dev` are merged into `main`.
 - **Refactor** – short‑lived branch for minor fixes or experiments; merged into `dev` and then deleted.
 - **Deployment**: `main` is connected to Vercel for automatic CI deployments.
+
+<br>
+
+Below, I’ve included screenshots of screens that a logged-in, non-banned Visitor user (the default experience after registration and login) will not see in the application. Click on any image to enlarge it.
   
 ## Example view of a banned user:
 
