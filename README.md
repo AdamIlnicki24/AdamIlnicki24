@@ -31,6 +31,9 @@ Clasicos is a full‑stack web application and neutral gathering place for Polis
 - **Mobile‑First & Responsive**  
   Fully optimized for smartphones and tablets, so you can manage your XI on the go.
 
+- **Image Optimization & Performance**  
+  All images in Clasicos are optimized and converted to WebP, and served via Next.js’s built-in `Image` component to maximize performance and loading speed on all devices.
+
 ## Tech Stack & Design
 
 - **Design (Figma)**: A big thanks to [@njqnik](https://github.com/njqnik) - thanks to the polished Figma design I could fully focus on frontend, backend, and deployment.  
@@ -48,10 +51,12 @@ The most popular Polish Barcelona and Real Madrid sites have active forums with 
 
 ## Branching & Deployment
 
-- **Development**: Most of the work happens on the `dev` branch.  
+- **Development**: Most of the work happens on the `dev` branch.
 - **Main**: Pull requests from `dev` are merged into `main`.
 - **Refactor** – short‑lived branch for minor fixes or experiments; merged into `dev` and then deleted.
 - **Deployment**: `main` is connected to Vercel for automatic CI deployments.
+  
+## Example view of a banned user:
 
 **Example view of a banned user**
 
