@@ -13,7 +13,7 @@ Clasicos is a full‑stack web application and neutral gathering place for Polis
   If a favourite player isn’t yet listed, submit a quick suggestion form and the admin will review and add them.
 
 - **Two User Roles**  
-  - **Visitors:** Can build teams, comment, and recommend other users' comments.  
+  - **Visitors:** Can build teams, comment, recommend other users' comments, and update their profile information.  
   - **Admins:** Can ban users (which prevents them from commenting and recommending), delete inappropriate comments, add new players, and manage suggestions.
 
 - **Managed Relational Database**  
@@ -54,6 +54,11 @@ The most popular Polish Barcelona and Real Madrid sites have active forums with 
 - **Main**: Pull requests from `dev` are merged into `main`.
 - **Refactor** – short‑lived branch for minor fixes or experiments; merged into `dev` and then deleted.
 - **Deployment**: `main` is connected to Vercel for automatic CI deployments.
+
+## TODOs
+
+- [ ] Implement pagination to support a growing number of comments  
+- [ ] Add functionality for users to reply to a specific comment 
 
 <br>
 
