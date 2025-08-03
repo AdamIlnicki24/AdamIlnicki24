@@ -32,7 +32,7 @@ Clasicos is a full‑stack web application and neutral gathering place for Polis
   Fully optimized for smartphones and tablets, so you can manage your XI on the go.
 
 - **Image Optimization & Performance**  
-  All images in Clasicos are optimized and converted to WebP, and served via Next.js’s built-in `Image` component to maximize performance and loading speed on all devices.
+  All images in Clasicos are optimized and converted to WebP, and served via Next.js’s built-in `Image` component to maximize performance and loading speed on all devices. The site achieves a 98/100 performance, 100/100 accessibility, 100/100 best practices, and 100/100 SEO score on Google PageSpeed     Insights
 
 ## Tech Stack & Design
 
