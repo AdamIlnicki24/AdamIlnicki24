@@ -71,3 +71,7 @@ Below, I’ve included screenshots of screens that a logged-in, non-banned Visit
 ## Example view of an admin:
 
 ![Example view of an admin](images/admin.png)
+
+## PageSpeed Insights score:
+
+![PageSpeed Insights score](images/page-speed-insights.png)
