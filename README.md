@@ -62,7 +62,7 @@ The most popular Polish Barcelona and Real Madrid sites have active forums with 
 
 <br>
 
-Below, I’ve included screenshots of screens that a logged-in, non-banned Visitor user (the default experience after registration and login) will not see in the application. Click on any image to enlarge it.
+Below, I’ve included screenshots of screens that a logged-in, non-banned Visitor user (the default experience after registration and login) will not see in the application. <ins>Click on any image to enlarge it.</ins>
   
 ## Example view of a banned user:
 
