@@ -1,6 +1,6 @@
 # Clasicos
 
-I am a developer with commercial experience who built the non-commercial web application **Clasicos** using NestJS and Next.js - https://clasicos.pl.
+I am a developer with commercial experience who built **Clasicos** as a side project using NestJS and Next.js - https://clasicos.pl.
 
 ## What is Clasicos?
 
