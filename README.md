@@ -52,7 +52,7 @@ The most popular Polish Barcelona and Real Madrid sites have active forums with 
 
 - **Development**: Most of the work happens on the `dev` branch.
 - **Main**: Pull requests from `dev` are merged into `main`.
-- **Refactor** – short‑lived branch for minor fixes or experiments; merged into `dev` and then deleted.
+- **Refactor**: short‑lived branch for minor fixes or experiments; merged into `dev` and then deleted.
 - **Deployment**: `main` is connected to Vercel for automatic CI deployments.
 
 ## TODOs
