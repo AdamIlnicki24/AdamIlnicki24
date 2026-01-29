@@ -42,7 +42,7 @@ Each repo has its own detailed README - feel free to check them out!
 
 ## Why This Idea?
 
-I’ve spent 17 years on similar fan sites and watched them evolve rapidly. Rather than build yet another club-specific fan page, I wanted to create a truly neutral space where Polish fans of both Barcelona and Real Madrid could gather.  
+I’ve spent 18 years on similar fan sites and watched them evolve rapidly. Rather than build yet another club-specific fan page, I wanted to create a truly neutral space where Polish fans of both Barcelona and Real Madrid could gather.  
 
 The most popular Polish Barcelona and Real Madrid sites have active forums with high posting frequency. Clasicos offers the same - users can post comments and recommend others’ comments. Offensive behavior is policed by admins, who can ban users to keep the community welcoming.
 
