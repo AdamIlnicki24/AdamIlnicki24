@@ -1,5 +1,7 @@
-# Clasicos
-I am a developer with 2.5 years of commercial experience who built Clasicos as a side project using NestJS and Next.js.
+# Adam Ilnicki
+🥉 3rd place at Hack Jam 2025 hackathon  
+💼 Over 2.5 years of commercial experience  
+🚀 Built Clasicos as a side project
 ## What is Clasicos?
 
 Clasicos is a full‑stack web application and neutral gathering place for Polish fans of both FC Barcelona and Real Madrid. Built with NestJS and Next.js, it offers a rich set of features:
