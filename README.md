@@ -3,7 +3,7 @@
 
 💼 **Over 2.5 years** of commercial experience
 
-🚀 Built **Clasicos** as a side project
+⚽ Built **Clasicos** as a side project
 
 ## What is Clasicos?
 
