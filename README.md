@@ -1,7 +1,7 @@
 # Adam Ilnicki
 🥉 3rd place at **Hack Jam 2025** hackathon
 
-💼 **3 years** of commercial experience
+💼 **Over 3 years** of commercial experience
 
 ⚽ Built **Clasicos** as a side project
 
